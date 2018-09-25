@@ -8,6 +8,9 @@
 # Purpose of Lab: Convert weight on different planets
 # 
 
+#w_mars is a float which is converted weight on mars
+#w_jupiter is a float which is coverted weight on jupiter
+
 def weight_on_planets():
 	weight = int(input("What do you weigh on earth? "))
 	w_mars = weight * .38
